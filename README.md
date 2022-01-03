@@ -32,7 +32,7 @@ More information on how to run automated tests can be found [here](https://githu
 
 
 * 1.0.0
-  * Exercise 1 - Demo Online Shop Automation
+  * Exercise 2 - Demo Online Shop Automation
 
 
 
